@@ -5,6 +5,10 @@ body{
     grid-template-columns: auto auto auto;
 }
 
+#mainTitle{
+    grid-column-start: 2;
+}
+
 #gameWindow{
     width: 800px;
     height: 608px;
