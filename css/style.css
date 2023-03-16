@@ -7,6 +7,7 @@ body{
 
 #mainTitle{
     grid-column-start: 2;
+    text-align: center;
 }
 
 #gameWindow{
